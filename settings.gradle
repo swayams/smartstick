@@ -1,0 +1,4 @@
+include ':phidget22usb'
+include ':phidget22'
+include ':app'
+rootProject.name = "SmartStick"
